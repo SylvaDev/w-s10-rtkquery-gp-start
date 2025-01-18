@@ -34,6 +34,7 @@ export default function TodoForm() {
 
   const onNewTodo = async evt => {
     evt.preventDefault()
+    
   }
 
   return (
